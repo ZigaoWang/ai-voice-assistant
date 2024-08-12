@@ -1,7 +1,5 @@
 # AI Voice Assistant
 
-# AI Teacher
-
 > [!NOTE]
 > 
 > ## 广告插播：TurboAI
